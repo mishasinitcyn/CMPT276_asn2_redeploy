@@ -1,8 +1,0 @@
-Website Redeployed At:
-https://peaceful-anchorage-06869.herokuapp.com/
-
-Original Deployment github:
-github.com/mishasinitcyn/rectangles
-
-Heroku Redeployed github:
-https://git.heroku.com/peaceful-anchorage-06869.git
